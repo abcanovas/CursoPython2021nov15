@@ -1,0 +1,11 @@
+.vscode/
+Lib/
+README.md
+Scripts/
+build/
+etc/
+hola.spec
+pyvenv.cfg
+share/
+__pycache__/
+dist/
